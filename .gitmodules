@@ -1,0 +1,3 @@
+[submodule "Othello/googletest"]
+	path = Othello/googletest
+	url = git@github.com:google/googletest.git
